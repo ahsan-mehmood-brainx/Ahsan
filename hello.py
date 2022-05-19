@@ -1,4 +1,3 @@
-print 'My Name is Ahsan'
-print 'Ahsan Mehmood'
-print 'Ahsan Mehmood Chughtai'
-print 'This is Master Branch'
+print '1'
+print '2'
+print '3'
