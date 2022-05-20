@@ -1,3 +1,3 @@
 print 'Test Project'
 print 'Tutorial'
-print 'Changes done by master'
+print 'Changes done from local'
